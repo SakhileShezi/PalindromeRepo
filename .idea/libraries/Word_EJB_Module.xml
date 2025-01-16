@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Word_EJB_Module">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/Word_EJB_Module.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
